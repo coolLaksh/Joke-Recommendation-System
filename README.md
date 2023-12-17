@@ -36,7 +36,7 @@ Content-Based Filtering focuses on the characteristics of items and users' prefe
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/your-username/joke-recommendation-system.git
+    git clone https://github.com/coolLaksh/joke-recommendation-system.git
     ```
 
 2. **Install Dependencies**:
